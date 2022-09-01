@@ -1,0 +1,45 @@
+h1 {
+    color:white; 
+    font-size: 40px;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    background-color: gray;
+
+}
+
+/*comment comment comment */
+
+
+/*style priority 
+external = low
+internal = medium
+in-line = high*/
+
+
+
+#second-paragraph {
+    color:black;
+}
+
+.keyboard, .last-paragraph {
+    color:black;
+}
+
+#footer {
+color: blueviolet;
+}
+
+body {
+background-image: url(../images/005-subtle-light-patterns.jpg)
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-left-color: red;
+    border-right-color: red;
+    border-radius: 2%;
+    box-shadow: 10px 10px 10px black;
+}
